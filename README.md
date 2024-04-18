@@ -4,4 +4,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Built using HTML & CSS with Flexbox
 
-ヾ(⌐■_■)/ Did you know 10/10 doctors recommend leetcoding to test your skills creating pixel perfect designs.
+ヾ(⌐■_■)/ Did you know 10/10 doctors recommend leetcoding to test your skills creating pixel perfect designs?
